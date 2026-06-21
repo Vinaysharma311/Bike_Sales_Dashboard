@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project presents an interactive Bike Sales Dashboard developed in Microsoft Excel. The dashboard analyzes customer demographics and purchasing behavior to identify patterns that influence bike sales. It transforms raw sales data into meaningful visual insights, enabling data-driven decision-making.
+This project presents an interactive Bike Sales Dashboard developed in Microsoft Excel. The dashboard analyzes customer demographics and purchasing behavior to identify patterns that influence bike[...]
 
 ## Features
 
@@ -38,3 +38,13 @@ Bike-Sales-Dashboard/
 └── screenshots/
     └── dashboard.png
 ```
+
+## Acknowledgements
+
+This Bike Sales Dashboard was recreated as a learning project by following a tutorial from Alex The Analyst. The purpose of this project was to practice and improve Microsoft Excel skills, including data cleaning, creating and configuring Pivot Tables and Pivot Charts, using slicers for interactive filtering, and assembling an effective dashboard layout.
+
+"This project was developed for educational purposes while following a tutorial by Alex The Analyst. Full credit for the original project concept and instructional content goes to Alex The Analyst."
+
+Tutorial reference: https://youtu.be/opJgMj1IUrc?si=9dReuniGAkaBNAR9
+
+I recreated the project to learn and demonstrate these Excel techniques; the work in this repository reflects my own practice and adaptations made during the learning process.
